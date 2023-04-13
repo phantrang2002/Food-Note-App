@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable-v24/bg_edit_disable.xml" value="0.1505" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable-v24/bg_edit_enable.xml" value="0.1505" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable-v24/bg_edit_selector.xml" value="0.1505" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable-v24/bg_favorite.xml" value="0.1505" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable-v24/bg_input.xml" value="0.2305" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable-v24/bg_search.xml" value="0.1505" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable-v24/bg_un_favorite.xml" value="0.1505" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable-v24/ic_favorite.xml" value="0.2245" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1505" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable-v24/ic_lock.xml" value="0.1505" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable-v24/ic_message.xml" value="0.1505" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable-v24/ic_search.xml" value="0.1505" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable/bg_img.xml" value="0.1505" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable/edit_text_background.xml" value="0.1985" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable/fbframe.xml" value="0.2545" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable/ic_baseline_arrow_right_alt_24.xml" value="0.1505" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1505" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable/lightframe.xml" value="0.2555" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable/mybutton_black.xml" value="0.2305" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable/mybutton_red.xml" value="0.2305" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/drawable/noback.xml" value="0.17" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/font/font.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/font/lobster.xml" value="0.27487179487179486" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/font/montserrat.xml" value="0.27487179487179486" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/font/montserrat_light.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/font/montserrat_medium.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/font/montserrat_regular.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/layout/activity_danh_sach.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/layout/activity_mon_an_chi_tiet.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/layout/activity_sua_mon_an.xml" value="0.13366336633663367" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/layout/activity_test_for_result.xml" value="0.234375" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/layout/dialog_tim.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/layout/dialog_xoa.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/layout/dong_mon_an.xml" value="0.3159340659340659" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/layout/mon_an_chi_tiet.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/layout/them_mon_an.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BTL_Last1/BTL_Last/BTL_Last/app/src/main/res/menu/menu_demo.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
